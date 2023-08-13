@@ -1,5 +1,5 @@
 # Добро пожаловать домой боец / Welcome home fighter
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://gifyu.com/image/ScB9G)
 
 # Мы тебя заждались / We've been waiting for you
 
