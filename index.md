@@ -3,8 +3,10 @@
 # Мы тебя заждались / We've been waiting for you
 
 
-Ознакомится со всеми правилами сервера можно в нашем [дискорд сервере](https://discord.gg/nBrKtU6DpZ). А так же купить привелегии и найти с кем поиграть.
-/ Familiarize yourself with all the rules of the server can be in our [discord server](https://discord.gg/nBrKtU6DpZ). As well as buy privileges and find someone to play with.
+Ознакомится со всеми правилами сервера можно в нашем дискорд сервере. А так же купить привелегии и найти с кем поиграть.
+/ Familiarize yourself with all the rules of the server can be in our. As well as buy privileges and find someone to play with.
+
+<a id="Discord">[https://discord.gg/mordhau](https://discord.gg/nBrKtU6DpZ)</>
 
 
 # Основные правила 
