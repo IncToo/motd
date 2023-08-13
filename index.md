@@ -1,15 +1,10 @@
-# Добро пожаловать домой боец 
-/ Welcome home fighter
+# Добро пожаловать домой боец / Welcome home fighter
 
-# Мы тебя заждались 
-/ We've been waiting for you
+# Мы тебя заждались / We've been waiting for you
 
 
-
-Ознакомится со всеми правилами сервера можно в нашем дискорд сервере. А так же купить привелегии и найти с кем поиграть.
-/ Familiarize yourself with all the rules of the server can be in our discord server. As well as buy privileges and find someone to play with.
-https://discord.gg/nBrKtU6DpZ
-
+Ознакомится со всеми правилами сервера можно в нашем [дискорд сервере](https://discord.gg/nBrKtU6DpZ). А так же купить привелегии и найти с кем поиграть.
+/ Familiarize yourself with all the rules of the server can be in our [discord server](https://discord.gg/nBrKtU6DpZ). As well as buy privileges and find someone to play with.
 
 
 # Основные правила 
@@ -21,6 +16,4 @@ https://discord.gg/nBrKtU6DpZ
 # 1. Если вы имеете привелегию, ознакомиться с правилами 
 / If you have a privilege, familiarize yourself with its rules.
 
-
-
-(https://cdn.discordapp.com/attachments/1038784080852029450/1102166909958496286/Screenshot_122.png)
+![Screenshot](https://cdn.discordapp.com/attachments/1038784080852029450/1102166909958496286/Screenshot_122.png)
